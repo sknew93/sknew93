@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sknew93
 - 👀 I’m interested in python, machine learning, flutter .
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning how hard it is to find entry level machine learning opportunities. 
 - 💞️ I’m looking to collaborate on machine learning proj3cts where I can learn. 
 - 📫 How to reach me ... sknew93@gmail.com
 
